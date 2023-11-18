@@ -18,7 +18,7 @@ Thank you for your interest in contributing to the Weather Forecast App! Contrib
 2. **Clone your Fork:**
    - Clone the repository to your local machine.
      ```bash
-     git clone https://github.com/your-username/weather-forecast-app.git
+     git clone https://github.com/wasimtikki120/weather-forecast-app-realtime-updates.git
      ```
 
 3. **Create a New Branch:**
