@@ -48,7 +48,7 @@ Contribute to the development of this project by following the [contribution gui
 
 ## Support
 
-If you encounter any issues or have questions, please open an [issue](https://github.com/wasimtikki120/WeatherForecastApp/issues).
+If you encounter any issues or have questions, please open an [issue](https://github.com/wasimtikki120/weather-forecast-app-realtime-updates/issues).
 
 ---
 
